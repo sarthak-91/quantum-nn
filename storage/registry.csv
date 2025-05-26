@@ -1,0 +1,4 @@
+n,l,energy,param_file,wf_file
+1,0,-0.4999912977218628,state_n_1_l_0.pt,wf_n_1_l_0.npy
+2,0,-0.12499134242534637,state_n_2_l_0.pt,wf_n_2_l_0.npy
+3,0,-0.055382080376148224,state_n_3_l_0.pt,wf_n_3_l_0.npy
