@@ -1,11 +1,7 @@
 n,l,energy,param_file,wf_file
-1,0,-0.5000061988830566,state_n_1_l_0.pt,wf_n_1_l_0.npy
 2,0,-0.12499697506427765,state_n_2_l_0.pt,wf_n_2_l_0.npy
 2,1,-0.12498533725738525,state_n_2_l_1.pt,wf_n_2_l_1.npy
 3,0,-0.055540453642606735,state_n_3_l_0.pt,wf_n_3_l_0.npy
 3,1,-0.055460125207901,state_n_3_l_1.pt,wf_n_3_l_1.npy
 4,0,-0.031238123774528503,state_n_4_l_0.pt,wf_n_4_l_0.npy
-1,0,-0.5000085234642029,state_n_1_l_0.pt,wf_n_1_l_0.npy
-1,0,-0.5000190734863281,state_n_1_l_0.pt,wf_n_1_l_0.npy
-1,0,-0.5000122785568237,state_n_1_l_0.pt,wf_n_1_l_0.npy
 1,0,-0.4999992251396179,state_n_1_l_0.pt,wf_n_1_l_0.npy
